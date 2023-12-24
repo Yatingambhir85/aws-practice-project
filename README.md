@@ -1,15 +1,14 @@
 # aws-practice-project
-####################################################################################################################
 
-AUTHOR - YATIN GAMBHIR
+-----------------------------------------------------------------------------------------------------
+# AUTHOR - YATIN GAMBHIR
 
-TITLE - AWS PRACTICE PROJECT
+# TITLE - AWS PRACTICE PROJECT
 
-DATE - 24 DECEMBER 2023
+# DATE - 24 DECEMBER 2023
 
-DESC - IN THIS PROJECT I HAVE HOSTED THE APPLICATION IN EC2 INSTANCE HOSTED IN A PRIVATE SUBNET AND ACCESSED THE APPLICATION USING A ALB IN A PUBLIC SUBNET
-
-###################################################################################################################
+# DESC - IN THIS PROJECT I HAVE HOSTED THE APPLICATION IN EC2 INSTANCE HOSTED IN A PRIVATE SUBNET AND ACCESSED THE APPLICATION USING A ALB IN A PUBLIC SUBNET
+-----------------------------------------------------------------------------------------------------
 
 STEP 1 - LOGIN TO YOUR AWS MANAGEMENT CONSOLE
 
